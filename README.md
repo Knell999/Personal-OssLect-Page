@@ -16,4 +16,4 @@ D.M.U 2022학년도 2학기 오픈소스소프트웨어 강의 관련 내용
 
 ## 3. Cheat Sheet
 - [Git Cheat Sheet](https://github.com/Knell999/Personal_OssLect/blob/main/Cheat%20Sheet/Git%20Cheat%20Sheet.md)
-- Github Cheat Sheet
+- [Github Cheat Sheet](https://github.com/Knell999/Personal_OssLect/blob/main/Cheat%20Sheet/Github_Cheat_Sheet.md)
